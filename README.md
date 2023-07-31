@@ -1,7 +1,7 @@
 # timer
 用rbtree，timewheel，minheap三种方式实现定时器
 
-#通过使用不同的宏定义使用不同的方式组织定时器
+# 通过使用不同的宏定义使用不同的方式组织定时器
 
 #define ENABLE_RBTREE_TIMER 1 //采用红黑树组织定时器
 
